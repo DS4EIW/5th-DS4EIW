@@ -1,8 +1,8 @@
-[![Screenshot of the Website](assets/website_screenshot.png)](#)
+[![Screenshot of the Website](assets/website_screenshot_2026.png)](#)
 
-This repository contains the website for the 4th Workshop on Data science for equality, inclusion and well-being challenges (DS4EIW 2024).
+This repository contains the website for the 5th Workshop on Data science for equality, inclusion and well-being challenges (DS4EIW 2026).
 
-The workshop will be held in conjunction with the IEEE International Conference on Big Data (IEEE BigData 2024) in Washington, DC, USA.
+The workshop will be held in <b>online</b> format, in conjunction with the <a href="https://icde2026.github.io/">IEEE International Conference on Data Engineering (ICDE) 2026</a> conference in Montréal, Canada, on May 4, 2026.
 
 ---
 
